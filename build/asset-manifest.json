@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ecomm-reactapp/static/css/main.0bea1b79.css",
+    "main.js": "/ecomm-reactapp/static/js/main.6d6d3501.js",
+    "static/js/787.14035003.chunk.js": "/ecomm-reactapp/static/js/787.14035003.chunk.js",
+    "static/media/football.png": "/ecomm-reactapp/static/media/football.894577de68a5041dab69.png",
+    "static/media/jacket.png": "/ecomm-reactapp/static/media/jacket.a33e74d5824450aeeb2c.png",
+    "static/media/pants.png": "/ecomm-reactapp/static/media/pants.94633901e3aab3b9bb9c.png",
+    "static/media/phone.png": "/ecomm-reactapp/static/media/phone.dd41f4a26836255e78a9.png",
+    "static/media/band.png": "/ecomm-reactapp/static/media/band.dce3b13f2b6d9bd13436.png",
+    "static/media/shirt.png": "/ecomm-reactapp/static/media/shirt.ea5890941f7a3d92dda6.png",
+    "static/media/shoes.png": "/ecomm-reactapp/static/media/shoes.03776b5357ad5330bb1c.png",
+    "static/media/computer.png": "/ecomm-reactapp/static/media/computer.53ed7e166290ccabb198.png",
+    "static/media/glasses.png": "/ecomm-reactapp/static/media/glasses.a688666866b3dcd5bdaf.png",
+    "static/media/belt.png": "/ecomm-reactapp/static/media/belt.a8dc60cb7ea3134a6532.png",
+    "index.html": "/ecomm-reactapp/index.html",
+    "main.0bea1b79.css.map": "/ecomm-reactapp/static/css/main.0bea1b79.css.map",
+    "main.6d6d3501.js.map": "/ecomm-reactapp/static/js/main.6d6d3501.js.map",
+    "787.14035003.chunk.js.map": "/ecomm-reactapp/static/js/787.14035003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bea1b79.css",
+    "static/js/main.6d6d3501.js"
+  ]
+}
